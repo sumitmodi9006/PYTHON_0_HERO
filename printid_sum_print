@@ -1,5 +1,7 @@
 a=20
 b=30
-print("a+b")//treat as a string and print as it is.
-print(a+b)//treat as a sum of digit
-print(id(a),id(b))//show memory address allocation
+print("a+b")#treat as a string and print as it is.
+print(a+b)#treat as a sum of digit
+print(id(a),id(b))#show memory address allocation
+c="hello"
+print(c)#if you want to write hello no need to write hello again again print c only
